@@ -1,0 +1,39 @@
+*{
+  margin:0px;
+}
+
+header{
+  margin-bottom: 30px;
+}
+
+header h1{
+  background-color: black;
+  font-family:serif;
+  color:white;
+  font-size:35px;
+  padding:20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+header div{
+text-align: center;
+}
+
+
+header a{
+  display: inline-block;
+  background-color:lightgrey;
+  color:white;
+  padding:10px;
+  font-size:20px;
+  font-weight: bold;
+  font-family: serif;
+  text-decoration: none;
+}
+
+main{
+  width:85%;
+  margin:0 auto;
+
+}
