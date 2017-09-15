@@ -33,7 +33,39 @@ header a{
 }
 
 main{
-  width:85%;
+  width:915px;
   margin:0 auto;
+}
 
+.picMessage{
+  background-color: aqua;
+  padding:15px;
+  font-size:25px;
+  font-family: georgia;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+#nr{
+  font-weight: bold;
+  border-bottom:2px solid yellow;
+}
+
+#grid div{
+  width:300px;
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 25px;
+
+}
+
+#grid img{
+  display:inline-block;
+}
+
+.editDel{
+  box-sizing: border-box;
+  background-color: yellow;
+  text-align: center;
+  padding:5px 0px;
 }
